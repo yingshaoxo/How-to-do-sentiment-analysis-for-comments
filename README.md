@@ -6,7 +6,7 @@ This is a project for students in LiveEdu to keep in touch with the knowledge I 
 
 Hi! I'm your guide **yingshaoxo**. 
 
-I'm here to help you to get into Machine learning as soon as possible.
+I'm here to help you guys to get into Machine learning as soon as possible.
 
 各位学子，你们好，我是你们的导师，**yingshaoxo**
 
