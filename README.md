@@ -11,7 +11,7 @@ I'm here to help you guys to get into Machine learning as soon as possible.
 ___
 
 
-各位学子，你们好，我是你们的导师，**yingshaoxo**
+各位学子，你们好，我是你们的好朋友，**yingshaoxo**
 
 我将通过这个课程为你们打开一扇新世界的大门: 一扇可以通过自学达到人类极限的大门。
 
