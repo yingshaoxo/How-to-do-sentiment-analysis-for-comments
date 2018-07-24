@@ -1,6 +1,6 @@
 # How-to-do-sentiment-analysis-for-comments
 
-This is a project for students in LiveEdu to keep in touch with the knowledge I taught.
+This is a project for students in [LiveEdu](https://www.liveedu.tv/yingshaoxo/Z7vkO-ru-he-dui-ping-lun-jin-xing-wen-ben-qing-gan-fen-xi/) to keep in touch with the knowledge I taught.
 
 ### In the beginning
 
