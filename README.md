@@ -25,7 +25,7 @@ ___
 **[Session 0](https://github.com/yingshaoxo/How-to-do-sentiment-analysis-for-comments/blob/master/0.ipynb):** 换个操作系统 (From Windows to Linux)
 
 * Install Ubuntu
-* 学习一些基本的 Linux commands
+* Learn some basic Linux commands
 
 
 **Session 1:** 准备好环境 (Setting up the Machine Learning environment for Ubuntu)
@@ -36,30 +36,30 @@ ___
 
 **Session 2:** 初步理解机器学习 (Get some intuitions about Machine Learning by creating a linear regression model)
 
-* 建立第一个 scikit-learn 模型
-* 把 模型 迁移到 Keras
+* Built your first scikit-learn model
+* Convert scikit-learn model to Keras
 
 
 **Session 3:** 准备好数据 (Understand what is your need)
 
-* 明确目标
+* Find your goals
 * Using selenium to grab data from websites
-* 寻找现有公开的数据集
-* 用 Python 整合并清理数据
+* Looking for online dataset
+* Clear data with Python
 
 
 **Session 4:** 选择一个开源框架 (Trying to find an open source ML project to help us do the repeated work)
 
-* 广泛搜索
+* Search wildly
 * 选择一个合适的开源项目( 或教程
 * 理解这个框架处理数据的大概流程
 
 
 **Session 5:** 训练模型 (Using Keras to do the dirty work)
 
-* 按照说明一步步理解AI训练的过程
+* Train your AI model step by step
 
 
 **Session 6:** 检测成果 (When we finished, we want to make sure that it works)
 
-* 使用Python对模型进行调用
+* Use model to do some predictions
