@@ -22,7 +22,7 @@ ___
 
 ### 具体课程
 
-**Session 0:** 换个操作系统 (From Windows to Linux)
+**[Session 0](https://github.com/yingshaoxo/How-to-do-sentiment-analysis-for-comments/blob/master/0.ipynb):** 换个操作系统 (From Windows to Linux)
 
 * Install Ubuntu
 * 学习一些基本的 Linux commands
