@@ -30,8 +30,8 @@ ___
 
 **Session 1:** 准备好环境 (Setting up the Machine Learning environment for Ubuntu)
 
-* Install python3, python3-pip, git
-* Install scikit-learn, Tensorflow, Keras, GPU
+* Install python3, python3-pip, git, jupyter
+* Install scikit-learn, Tensorflow, Keras, GPU, ...
 
 
 **Session 2:** 初步理解机器学习 (Get some intuitions about Machine Learning by creating a linear regression model)
