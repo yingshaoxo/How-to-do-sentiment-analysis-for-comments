@@ -28,7 +28,7 @@ ___
 * Learn some basic Linux commands
 
 
-**Session 1:** 准备好环境 (Setting up the Machine Learning environment for Ubuntu)
+**[Session 1](https://github.com/yingshaoxo/How-to-do-sentiment-analysis-for-comments/blob/master/1.ipynb):** 准备好环境 (Setting up the Machine Learning environment for Ubuntu)
 
 * Install python3, python3-pip, git, jupyter
 * Install scikit-learn, Tensorflow, Keras, GPU, ...
