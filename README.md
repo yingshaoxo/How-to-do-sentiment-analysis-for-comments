@@ -34,17 +34,16 @@ ___
 * Install scikit-learn, Tensorflow, Keras, GPU, ...
 
 
-**Session 2:** 初步理解机器学习 (Get some intuitions about Machine Learning by creating a linear regression model)
+**[Session 2](https://github.com/yingshaoxo/How-to-do-sentiment-analysis-for-comments/blob/master/2.ipynb):** 初步理解机器学习 (Get some intuitions about Machine Learning by creating a linear regression model)
 
 * Built your first scikit-learn model
 * Convert scikit-learn model to Keras
 
 
-**Session 3:** 准备好数据 (Understand what is your need)
+**[Session 3](https://github.com/yingshaoxo/How-to-do-sentiment-analysis-for-comments/blob/master/3.ipynb):** 准备好数据 (Understand what is your need)
 
 * Find your goals
 * Using selenium to grab data from websites
-* Looking for online dataset
 * Clear data with Python
 
 
