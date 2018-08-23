@@ -42,12 +42,12 @@ ___
 
 **[Session 3](https://github.com/yingshaoxo/How-to-do-sentiment-analysis-for-comments/blob/master/3.ipynb):** 准备好数据 (Understand what is your need)
 
-* Find your goals
+* The meaning of data
 * Using selenium to grab data from websites
 * Clear data with Python
 
 
-**Session 4:** 选择一个开源框架 (Trying to find an open source ML project to help us do the repeated work)
+**[Session 4](https://github.com/yingshaoxo/How-to-do-sentiment-analysis-for-comments/blob/master/4.ipynb):** 选择一个开源框架 (Trying to find an open source ML project to help us do the repeated work)
 
 * Search wildly
 * 选择一个合适的开源项目( 或教程
