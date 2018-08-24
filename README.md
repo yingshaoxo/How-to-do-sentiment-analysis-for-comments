@@ -54,7 +54,7 @@ ___
 * 理解这个框架处理数据的大概流程
 
 
-**Session 5:** 训练模型 (Using Keras to do the dirty work)
+**[Session 5](https://github.com/yingshaoxo/How-to-do-sentiment-analysis-for-comments/blob/master/5.ipynb):** 训练模型 (Using Keras to do the dirty work)
 
 * Train your AI model step by step
 
